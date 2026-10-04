@@ -1,4 +1,4 @@
-# Kovaaks-Theme-LightPurple
+# Kovaaks-Theme-Matcha
 
 <img width="640" height="360" alt="Matcha" src="https://github.com/user-attachments/assets/da48b9b8-0edf-4b81-a666-abae5e1b3b25" />
 
